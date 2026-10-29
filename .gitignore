@@ -1,0 +1,27 @@
+# ---------- 编译输出 ----------
+[Bb]in/
+[Oo]bj/
+*.pdb
+
+# ---------- Visual Studio 缓存与个人设置 ----------
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ---------- NuGet 还原出来的第三方包 ----------
+packages/
+*.nupkg
+
+# ---------- 其他工具的临时产物 ----------
+_ReSharper*/
+*.DotSettings.user
+TestResults/
+
+# ---------- 操作系统与临时文件 ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+*.tmp
